@@ -1,6 +1,6 @@
 # Agile CoE Training
 
-Demo app used to train the following engineering practises:
+Demo app uses to demonstrate the following engineering practises:
 
 * Version Control using GIT
 * Test Driven Development (TDD)
