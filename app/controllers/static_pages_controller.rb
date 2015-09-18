@@ -1,5 +1,5 @@
 class StaticPagesController < ApplicationController
   def index
-    render 'index1'
+    render 'index'
   end
 end
